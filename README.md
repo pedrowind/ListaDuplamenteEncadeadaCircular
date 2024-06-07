@@ -1,4 +1,4 @@
-# Pega Malandro
+# Lista Duplamente Encadeada Circular
 
 Projeto da disciplina Estrutura de Dados
 
